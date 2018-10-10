@@ -1,0 +1,200 @@
+Name,Latitude,Longitude,Length,Voltage,Power,Year,Location
+Cahora Bassa,-15.61139,32.74972,1420,533,1920,1979,Africa
+Inga-Shaba,-10.6575,25.45222,1700,500,560,1982,Africa
+Caprivi Link,-20.31472,16.4525,950,350,300,2010,Africa
+Ethiopia–Kenya HVDC Interconnector,6.9075,37.72194,1045,500,2000,2019,Africa
+HVDC Inter-Island 1,-44.56528,170.19,611,270,600,1965,Australia and Oceania
+HVDC Inter-Island 2,-44.56528,170.19,611,350,700,1992,Australia and Oceania
+Terranora interconnector (Directlink),-28.57083,153.45222,59,80,180,2000,Australia and Oceania
+Murraylink,-34.29194,142.23861,176,150,200,2002,Australia and Oceania
+Basslink,-38.2625,146.60806,370 (298/72),400,500,2006,Australia and Oceania
+HVDC Inter-Island 3,-44.56528,170.19,611,350,735,2013,Australia and Oceania
+Hokkaido - Honshu,41.93194,140.66306,193 (44/149),250,300,1979,Asia
+Zhou Shan,29.92361,121.78083,54 (12/42),100,50,1982,Asia
+Gezhouba - Shanghai,30.72889,111.24417,1046 (0/1046),500,1200,1989,Asia
+Sileru-Barsoor,17.86694,81.65583,196 (0/196),200,100,1989,Asia
+Rihand-Delhi,24.02028,82.78917,814 (0/814),500,1500,1990,Asia
+Haenam-Cheju,34.3675,126.59278,101 (101/0),180,300,1996,Asia
+Leyte - Luzon,11.08861,124.63917,451 (21/430),350,440,1998,Asia
+Chandrapur-Padghe,20.01,79.285,752 (0/752),500,1500,1999,Asia
+Kii Channel,33.82778,134.63722,100 (50/50),250,1400,2000,Asia
+Tian-Guang,24.91556,105.09639,960 (0/960),500,1800,2001,Asia
+Thailand-Malaysia,6.71556,100.45222,110 (0/110),300,300,2001,Asia
+Shengsi,30.70167,122.43944,66.2 (63.21/2.99),50,60,2002,Asia
+Talcher-Kolar,21.10028,85.06361,1450 (0/1450),500,2500,2003,Asia
+Three Gorges - Changzhou,30.785,111.53,890 (0/890),500,3000,2003,Asia
+Guizhou - Guangdong I,26.27306,105.80583,980 (0/980),500,3000,2004,Asia
+Three Gorges - Guangdong,30.45722,112.13833,940 (0/940),500,3000,2004,Asia
+Three Gorges - Shanghai,30.52917,111.37639,1060 (0/1060),500,3000,2006,Asia
+Guizhou - Guangdong II,25.46556,105.25389,1200 (0/1200),500,3000,2007,Asia
+Ballia - Bhiwadi,26.07111,83.71333,800 (0/800),500,2500,2010,Asia
+Baoji - Deyang,34.57972,107.33028,574 (0/574),500,3000,2010,Asia
+Hulunbeir - Liaoning,48.51778,119.725,920 (0/920),500,3000,2010,Asia
+Xiangjiaba-Shanghai,28.54639,104.41778,1980 (0/1980),800,6400,2010,Asia
+Yunnan - Guangdong,25.19,102.19167,1418 (0/1418),800,5000,2010,Asia
+Hubei - Shanghai,30.8225,112.12083,970 (0/970),500,3000,2011,Asia
+Nanhui Wind Farm Integration,None,None,8.4 (8.4/0),30,18,2011,Asia
+Ningdong - Shandong,38.11556,106.51528,1335 (0/1335),660,4000,2011,Asia
+Qinghai - Tibet,36.35556,95.18472,1038 (0/1038),400,1500,2011,Asia
+Mundra - Haryana,22.82944,69.55611,960 (0/960),500,2500,2012,Asia
+Dalian City Infeed,None,None,43 (43/0),320,1000,2013,Asia
+Jinping - Sunan,27.83639,102.14167,2090 (0/2090),800,7200,2013,Asia
+Nuozhadu - Guangdong,22.65556,100.66667,1413,800,6400,2013,Asia
+Xiluodo - Guangdong,28.1225,104.37417,1286 (0/1286),500,6400,2013,Asia
+Hami - Zhengzhou,42.58889,93.46278,2192,800,8000,2014,Asia
+Jindo - Jeju,34.38556,126.18722,105 (105/0),250,400,2014,Asia
+Xiluodo - West Zhejiang,28.46028,104.33889,1680,800,8000,2014,Asia
+Humeng - Shandong,None,None,,800,6400,2015,Asia
+Irkutsk - Beijing,None,None,,800,6400,2015,Asia
+Champa-Kurukshetra,None,None,1365 (0/1365),800,6000,2016,Asia
+Goupitan - Guangdong,None,None,,,3000,2016,Asia
+Jinsha River II - East China,None,None,,800,6400,2016,Asia
+North-East Agra,27.08361,78.07278,1728 (0/1728),800,6000,2016,Asia
+Inner Mongolia - Linyi,38.77778,106.86667,,800,6400,2017,Asia
+Jiuquan- Xiangtan,40.60083,96.72278,,800,6400,2017,Asia
+North Shanxi - Nanjing,39.65972,112.4625,,,,2017,Asia
+Northwest Yunnan - Guangdong,26.41528,99.82,,800,6400,2017,Asia
+Xilin Hot - Taizhou,44.24444,116.50611,,800,6400,2017,Asia
+Xinjiang - Anhui,44.65,89.12361,3333,1100,10000,2017,Asia
+Yinchuan - Zhuji,37.72917,106.53944,,800,6400,2017,Asia
+Dianxibei - Guangdong,None,None,1928/0,800,5000,2017,Asia
+Jinsha River II - Fujian,None,None,,800,6400,2018,Asia
+Humeng - Liaoning,None,None,,800,6400,2018,Asia
+Shanghai - Shensi,None,None,123 (63/60),50,,,Asia
+Tamil Nadu,None,None,1830,800,6000,2019,Europe
+Miesbach-Munich Power Transmission,None,None,58 (0/58),2,0.0025,1882,Europe
+Gorzente River - Genoa DC transmission scheme,None,None,,6,,1889,Europe
+La Chaux-de-Fonds DC transmission scheme,None,None,,14,,1897,Europe
+St. Maurice - Lausanne DC transmission scheme,None,None,,22,3.7,1899,Europe
+Lyon-Moutiers DC transmission scheme,None,None,200 (10/190),75,30,1906,Europe
+Wilesden-Ironbridge DC transmission scheme,None,None,,100,,1910,Europe
+HVDC Zurich-Wettingen,47.45694,8.32083,20(0/20),50,0.5,1939,Europe
+HVDC Charlottenburg-Moabit,None,None,4.6,100,14,1942,Europe
+Lehrte-Misburg HVDC,52.38167,9.9175,,80,16,1944,Europe
+Elbe-Project,51.84444,12.36389,115(115/0),200,60,1945,Europe
+Gotland 1,57.72806,16.6475,98(98/0),200,20,1954,Europe
+Cross-Channel,50.69667,1.63917,64(64/0),100,160,1961,Europe
+Volgograd-Donbass,48.82611,44.67222,475(0/475),400,750,1965,Europe
+Konti-Skan 1,57.06278,10.09,176(87/89),250,250,1965,Europe
+SACOI 1,43.05278,10.695,483(365/118),200,200,1965,Europe
+Kingsnorth,51.41972,0.59611,85(85/0),266,320,1975,Europe
+Kingsnorth,51.53417,-0.25806,111(111/0),266,320,1975,Europe
+Skagerrak 1 + 2,56.47889,9.56694,230(130/100),250,500,1977,Europe
+Gotland 2,57.72806,16.6475,99.5(92.9/6.6),150,130,1983,Europe
+Interconnexion France Angleterre (new),50.90306,1.78472,72(72/0),270,2000,1986,Europe
+Gotland 3,57.72806,16.6475,98(98/0),150,130,1987,Europe
+Konti-Skan 2,57.06278,10.09,147(87/60),285,300,1988,Europe
+Fenno-Skan,61.15194,21.62556,233(200/33),400,500,1989,Europe
+SACOI 2,43.05278,10.695,422(118/304),200,300,1992,Europe
+Skagerrak 3,56.47889,9.56694,230(130/100),350,440,1993,Europe
+Baltic Cable,53.89611,10.8025,262(250/12),450,600,1994,Europe
+Kontek,55.45028,12.0075,170(170/0),400,600,1996,Europe
+Visby-Nas,57.09944,18.24083,70(70/0),80,50,1999,Europe
+SwePol,54.50222,16.89111,245(245/0),450,600,2000,Europe
+Italy-Greece,39.18333,20.96333,310(200/110),400,500,2001,Europe
+Moyle,55.06944,-4.98056,63.5(63.5/0),250,2501,2001,Europe
+HVDC Troll,60.55028,4.84056,70(70/0),60,80,2004,Europe
+Estlink,60.20389,24.55167,105(105/0),150,350,2006,Europe
+NorNed,53.43444,6.86583,580(580/0),450,700,2008,Europe
+BritNed,51.44,0.71667,245(245/0),450,1000,2010,Europe
+Cometa,39.64111,-0.23528,247(247/0),250,400,2011,Europe
+Fenno-Skan 2,61.15194,21.62556,303(200/103),500,800,2011,Europe
+SAPEI,41.42972,12.80694,435(435/0),500,1000,2011,Europe
+Valhall HVDC,58.07694,6.77472,292(292/0),150,78,2011,Europe
+Fenno-Skan 1 Upgrade,None,None,233(200/33),400,500,2013,Europe
+Estlink 2,60.37667,25.36694,171(157/14),450,650,2014,Europe
+LitPol Link HVDC is B2B,None,None,160(0/160),70,500,2015,Europe
+NordBalt,56.76778,15.85417,450(450/0),300,700,2015,Europe
+Skagerrak 4,56.47889,9.56694,244(244/0),500,700,2015,Europe
+Troll A 3&4,None,None,70(70/0),66,100,2015,Europe
+Western HVDC Link,55.72111,-4.88528,422(422/0),600,2200,2017,Europe
+Caithness Moray HVDC3,None,None,160,320,1200,2018,Europe
+COBRAcable,None,None,325,400,700,2019,Europe
+ElecLink,None,None,70,320,1000,2019,Europe
+Nemo Link,None,None,140(140/0),400,1000,2019,Europe
+ALEGrO,None,None,100(100/0),320,1000,2019,Europe
+IFA2,None,None,240,400,1000,2020,Europe
+NORD.LINK,58.66861,6.75444,623(570/53),525,1400,2020,Europe
+NSN Link,None,None,730,515,1400,2020,Europe
+FAB Link,None,None,,,1400,2021,Europe
+Shetland HVDC Connection,None,None,345(345/0),300,600,2021,Europe
+Western Isles HVDC,None,None,156,320,600,2021,Europe
+EuroAsia Interconnector,None,None,1520,500,2000,2022,Europe
+NorthConnect,None,None,650,,1400,2022,Europe
+Viking Link,None,None,740,,1400,2022,Europe
+EuroAfrica Interconnector,None,None,1707,500,2000,2021,Europe
+Eastern HVDC Link,None,None,305,400,2000,2024,Europe
+Vancouver Island 1,49.09194,-123.04194,75(42/33),260,312,1968,North America
+Nelson River Bipole 1,56.36139,-94.61333,895(0/895),463.5,1854,1971,North America
+Vancouver Island 2,49.09194,-123.04194,75(33/42),280,370,1977,North America
+Square Butte,47.07167,-101.19583,749(0/749),250,500,1977,North America
+Nelson River Bipole 2,56.50389,-94.14,940(0/940),500,2000,1985,North America
+CU,47.37333,-101.15639,687(0/687),400,1000,1979,North America
+Quebec - New England Transmission,53.72583,-77.73806,1105(5/1100),450,2250,1991,North America
+Cross Sound Cable,41.28667,-72.90222,40(40/0),150,330,2002,North America
+Neptune Cable,40.76056,-73.55111,105(105/0),500,660,2007,North America
+Trans Bay Cable,38.03083,-121.89667,85(85/0),200,400,2010,North America
+Eastern Alberta Transmission Line,50.51139,-112.01722,485 (0/485),500,1000,2015,North America
+Western Alberta Transmission Line,53.35361,-114.30917,350 (0/350),500,1000,2015,North America
+Nelson River Bipole 3,56.65694,-93.85389,1324(0/1324),500,2000,2018,North America
+Labrador-Island Link,None,None,1135(35/1100),350,900,2017,North America
+Maritime Link,48.53111,-58.26083,360(170/190),200,500,2017,North America
+Plains & Eastern Clean Line,None,None,1207(0/1207),600,4000,2018,North America
+New England Clean Power Line,None,None,248(248/0),320,1000,2020,North America
+Juan de Fuca Cable Project,48.10278,-123.41667,35(35/0),150,550,,North America
+Rock Island Clean Line,None,None,805(0/805),600,3500,,North America
+TransWest Express,None,None,1165(0/1165),600,3000,,North America
+Itaipu 1,-25.46611,-54.5425,785,600,3150,1984,South America
+Itaipu 2,-25.46611,-54.5425,805,600,3150,1987,South America
+Rio Madeira,-8.91472,-63.9575,2375,600,7100,2013,South America
+Xingu-Estreito,None,None,2076 (0/2076),800,4000,2017,South America
+Sakuma B2B,35.0825,137.79889,,125,300,1965,Asia
+Shin Shinano B2B,36.13722,137.88278,,125,600,1977,Asia
+Vyborg B2B,60.68028,28.91861,,85,1065,1982,Europe
+Artesia,32.814361,-104.241556,None,82,200,1983,South America
+Chateauguay B2B,45.25306,-73.86972,None,140,1000,1984,North America
+Oklaunion B2B,34.085,-99.18361,None,82,200,1984,North America
+Blackwater,34.30083,-103.17417,None,57,200,1984,North America
+Madawaska,47.50861,-68.52361,None,140,350,1985,North America
+Miles City,46.40861,-105.79333,None,82,200,1985,North America
+Highgate,44.93806,-73.05417,None,56,200,1985,North America
+Uruguaiana B2B,-29.80611,-57.00472,None,17.9,53.9,1986,South America
+Broken Hill B2B,-31.98611,141.41917,None,8.33,40,1986,Australia and Oceania
+Virginia Smith B2B,41.16417,-102.9875,None,50,200,1988,North America
+Vindhyachal B2B,24.09389,82.67889,None,176,500,1989,Asia
+McNeill B2B,50.59889,-110.02361,None,42,150,1989,Asia
+Wolmirstedt B2B,52.2725,11.63611,None,160,600,-1992,Europe
+Etzenricht B2B,49.63111,12.11556,None,160,600,1993,Europe
+Vienna-Southeast B2B,48.12278,16.41833,None,142,600,1993,Europe
+Chandrapur B2B,20.08917,79.14333,None,205,1000,1998,Asia
+Welsh HVDC Converter Station B2B,33.058417,-94.8434833,None,162,600,1998,North America
+Garabi HVDC,-28.25528,-55.67167,None,70,2200,1999,North America
+Vizag 1,17.6425,83.1325,None,205,500,1999,Asia
+Minami-Fukumitsu B2B,36.49611,136.91583,None,125,300,1999,Asia
+Rivera B2B,-30.94139,-55.55944,None,22,70,2000,South America
+Eagle Pass,28.716333,-100.4908,None,15.9,36,2000,North America
+Sasaram B2B,25.12833,83.70806,None,205,500,2003,Asia
+Rapid City DC Tie B2B,44.01028,-103.165,None,13,200,2003,North America
+Vizag 2,17.64056,83.13611,None,176,500,2005,Asia
+Lingbao B2B,34.54889,110.84694,None,168,360,2005,Asia
+Lamar Co.,38.2069667,-102.5288667,None,63.6,210,2005,North America
+Higashi-Shimuzu B2B,35.05667,138.49944,None,125,300,2006,Asia
+Sharyland B2B,26.16694,-98.32361,None,21,150,2007,North America
+Al Fadhili B2B,26.89778,49.34639,None,222,180,2008,Asia
+Outaouais B2B,45.60028,-75.44639,None,315,1250,2009,North America
+Heihe B2B,50.25528,127.42694,None,125,750,2011,Asia
+Gaoling B2B,40.18028,120.00611,None,500,1500,2008,Asia
+Shandong - East B2B,None,None,None,,1200,2011,Asia
+Melo B2B,-32.41722,-54.09278,None,79,500,2011,South America
+North - Central B2B,None,None,None,,1000,2012,Asia
+Rio Madeira B2B,-8.91278,-63.9575,None,100,800,2013,South America
+Ridgefield B2B ( Hudson Project),40.83222,-74.01222,None,185,660,2013,South America
+Bheramara B2B,24.0675,89.00111,None,158,500,2013,Asia
+Akhaltsikhe B2B,41.70722,43.10972,None,96,700,2013,North America
+Mackinac B2B,45.85861,-84.73833,None,70,200,2014,North America
+Railroad DC Tie,26.16694,-98.32361,None,21,150,2014,North America
+Alytus B2B,54.43861,23.96722,None,70,500,2015,Europe
+Mogocha B2B,53.725,119.78944,None,32,200,2017,Europe
+Yu - E B2B,None,None,None,420,5000,2017,Asia
+Khani B2B,56.91917,119.99,None,32,200,2019,Europe
+Tres Amigas SuperStation,None,None,None,,5000,,North America
